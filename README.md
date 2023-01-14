@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khoa</h1>
-<h3 align="center">A machine learning passionate</h3>
+<h3 align="center">A machine learning enthusiast</h3>
 
 <img align="right" alt="Coding" width="330" src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif">
 
